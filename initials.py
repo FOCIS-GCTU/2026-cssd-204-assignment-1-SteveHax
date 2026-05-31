@@ -11,19 +11,19 @@
 def main():
     #print the stylized initials in a 60 character wide grid
     print()
-    print('...SAS')
+    print('...S.A')
     print()
 
 
-print('...SSSSSSSSSSSS...**...AAAA....AAAA......SSSSSSSSSSSS...**')
-print('...SSSSSSSSSSSS...**...AAAA....AAAA......SSSSSSSSSSSS...**')
-print('...SSSS...........**...AAAA....AAAA......SSSS............**')
-print('...SSSS...........**...AAAA....AAAA......SSSS............**')
-print('...SSSSSSSSSSSS...**...AAAAAAAAAAAA......SSSSSSSSSSSS...**')
-print('...SSSSSSSSSSSS...**...AAAAAAAAAAAA......SSSSSSSSSSSS...**')
-print('...........SSSS...**AAAA....AAAA...........SSSS...**')
-print('...........SSSS...**AAAA....AAAA...........SSSS...**')
-print('...SSSSSSSSSSSS...**...AAAA....AAAA......SSSSSSSSSSSS**')
+print('...SSSSSSSSSSSS........AAAAAAAA.........**')
+print('...SSSSSSSSSSSS......AAAA....AAAA.......**')
+print('...SSSS..............AAAA....AAAA.......**')
+print('...SSSS..............AAAA....AAAA.......**')
+print('...SSSSSSSSSSSS......AAAAAAAAAAAA.......**')
+print('...SSSSSSSSSSSS......AAAAAAAAAAAA.......**')
+print('...........SSSS......AAAA....AAAA.......**')
+print('...........SSSS...**.AAAA....AAAA...**..**')
+print('...SSSSSSSSSSSS...**.AAAA....AAAA...**..**')
 print()
 
 #
